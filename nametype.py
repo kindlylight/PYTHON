@@ -1,0 +1,5 @@
+First_Name= input("Type your first name: ")
+Middle_Name= input("Type your Middle name: ")
+Last_Name= input("Type your Last name: ")
+Full_Name= ([First_Name], [Middle_Name], [Last_Name])
+print(Full_Name)
